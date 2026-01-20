@@ -26,7 +26,7 @@ The app fetches random advice from an external API and displays it on the screen
 ### Links
 
 - Solution URL: [https://github.com/Megatech23/Advice-Generator-App](https://github.com/Megatech23/Advice-Generator-App)
-- Live Site URL: [https://generator-app-advice.netlify.app/](https://generator-app-advice.netlify.app/
+- Live Site URL: [https://generator-app-advice.netlify.app/](https://generator-app-advice.netlify.app/)
 ## My process
 
 ### Built with
